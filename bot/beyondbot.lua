@@ -295,26 +295,10 @@ function create_config( )
     "antispam_pv",
     "killme"
     },
-    sudo_users = {157059515},--Sudo users
+    sudo_users = {112274576,123755887},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[😎Tele Beyond V4.5😎
-➡️An Administrator The PowerFull Bot Based On TeleSeed And Bilingual Written On Lua⬅️
-
-▶️Sudo Users :
-
-Developer&Founder : @SoLiD021
-
-Manager&Helper : @MrHalix
-
-#⃣Team Channel :
-✌️ @BeyondTeam ✌️
-
-❤️Special Thx To :
-@idivanmanheb
-Beyond Team
-And All My Friends
-]],
+    about_text = [[]],
     help_text_realm = [[
 Realm Commands:
 !creategroup [Name]
